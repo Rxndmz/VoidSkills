@@ -1,0 +1,12 @@
+#              #
+# MySQL Config #
+#              #
+Host: 'localhost'
+Port: '3306'
+Database: 'VoidSkills'
+Username: 'root'
+Password: ''
+#                 #
+# Message Manager #
+#                 #
+prefix: '&d&lVOIDMC&8&l» '

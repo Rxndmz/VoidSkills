@@ -1,0 +1,15 @@
+name: VoidSkills
+version: ${project.version}
+main: me.rxndmz.voidskills.VoidSkills
+api-version: 1.13
+author: Rxndmz
+depend: [WorldEdit, WorldGuardEvents, WorldGuard, Vault, ActionBarAPI]
+commands:
+  Test:
+    description: for testing
+  ResetSkills:
+    description: resets a players skills
+  Skills:
+    description: opens skill menu
+  Enchanter:
+    description: opens enchant menu
